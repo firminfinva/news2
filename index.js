@@ -20,3 +20,5 @@ while(ans>2){
   console.log(ans1,ans2,ans3);  
   ans  = parseInt(prompt("continue playing again"));
 }
+
+//dsdfsfsfsfjhs
